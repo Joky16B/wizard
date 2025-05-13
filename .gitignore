@@ -28,6 +28,7 @@ env/
 # IDE files
 .idea/
 .vscode/
+.windsurf/
 *.swp
 *.swo
 
