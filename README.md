@@ -21,10 +21,6 @@ This project is divided into three main phases:
 - Modern and intuitive user interface
 - Game customization options
 
-## Development Status
-
-This project is currently in the initial development phase. See the [development checklist](wizard_development_checklist.md) for current progress.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
