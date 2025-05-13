@@ -27,4 +27,4 @@ This project is currently in the initial development phase. See the [development
 
 ## License
 
-[License to be determined]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
